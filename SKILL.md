@@ -3,8 +3,9 @@ name: neti-neti-analysis
 description: A systematic methodology for Self-knowledge through negation, derived from Adi Shankara's Advaita Vedanta. "Neti neti" means "not this, not this" — a practice of stripping away all false identifica...
 license: MIT
 metadata:
+  version: 1.0.4574
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - neti-neti-analysis
 - writing
